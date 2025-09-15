@@ -11,7 +11,9 @@ It allows users to search Wikipedia articles and displays results in a clean, us
 ---
 
 ## 📸 Screenshot
-(Add a screenshot of your project here – optional)
+
+![Wiki Search App Screenshot](assets/screenshot.png)
+
 
 ---
 
